@@ -1,3 +1,3 @@
-fn main (){
-    print!("c=====3")
+fn main () {
+    
 }
